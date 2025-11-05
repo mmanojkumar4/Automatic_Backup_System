@@ -17,3 +17,5 @@ This document demonstrates how to test all major features of backup.sh script.
 6. Email
 
 7. Error Handling TestError Handling Test
+
+![Error Handling](https://github.com/mmanojkumar4/Automatic_Backup_System/blob/b59204ce2aa860fecfd17f7fe95262068e8dec9d/test_folder/folder_error.png)
